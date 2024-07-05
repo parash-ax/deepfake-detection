@@ -1,0 +1,27 @@
+@startuml
+
+' Define actors
+actor DataCollector
+actor DatasetProvider
+actor DataProcessingSystem
+
+' Define processes
+rectangle "Data Gathering" {
+  DataCollector -> (Fetch Data)
+  (Fetch Data) -> (Process Data)
+  (Process Data) --> DataProcessingSystem
+}
+
+' Define data stores
+rectangle "Dataset Repository" {
+  (Raw Data)
+  (Processed Data)
+}
+
+' Define data flows
+DatasetProvider --> (Fetch Data)
+(Fetch Data) --> (Process Data)
+(Process Data) --> DatasetRepository
+DataProcessingSystem --> (Processed Data)
+
+@enduml
