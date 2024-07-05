@@ -1,0 +1,19 @@
+REFERENCES
+[1] Kim, Minjoo, et al. "Hierarchical DeepFake Detection with Multi-Modal Fusion.",2024(IEEE).
+[2] Park, Jihoon, et al. "Enhancing DeepFake Detection with Fine-grained Facial Region Attention.",2024(IEEE).
+[3] Zhu, Jianyu, et al. "Temporal Consistency Guided Attention Network for DeepFake Detection.", 2024(CVF).
+[4]Guo, Hao, et al. "GLD: A Graph Learning Approach for DeepFake Detection." ,2023.
+[5] Xu, Yang, et al. "DeepFake Detection with Confidence-aware Learning.", 2023(IEEE). 
+[6] Cai, Jingjing, et al. "A Comprehensive Survey on DeepFake Detection: From Traditional Methods to the State-of-the-Art." ,2023.
+[7] Choi, Kiwook, et al. "Rethinking Detectability of GAN-Generated Fake Images." ,2022(IEEE).
+[8] Wu, Yuheng, et al. "DeepFake Forensics: A Survey." ,2022(CSUR)
+[9]Duan, Yuezun Li, et al. "Deep Learning for Deepfakes Detection Based on Coarse-grained Features and Temporal Attention Mechanism." ,2021.
+[10]Li, Yuezun, et al. "Hybrid Learning Scheme for Detection of Deepfake Videos." ,2021(IEEE).
+[11] Dang, Haohong, et al. "Detecting DeepFake Videos from Their Audio Track: A Deep Learning-based Approach.",2021.
+[12] Rossler, Andreas, et al. "FaceForensics++: Learning to Detect Manipulated Facial Images.",2020(IEEE).
+[13] Li, Yuezun, et al. "Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics." ,2020(IEEE).
+
+[14] Rössler, Andreas, et al. "FaceForensics++: Learning to Detect Manipulated Facial Images." ,2019(IEEE).
+[15] Afchar, Darius, et al. "Mesonet: A Compact Facial Video Forgery Detection Network." ,2019(IEEE).
+[16] Zhou, Peng, et al. "Two-Stream Neural Networks for Tampered Face Detection." ,2018(IEEE).
+[17] Li, Yuezun, and Siwei Lyu. "Exposing DeepFake Videos By Detecting Face Warping Artifacts." ,2018(IEEE)
