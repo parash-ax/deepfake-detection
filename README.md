@@ -44,7 +44,7 @@ Go to [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser.
 ## 🖼️ Demo
 ![Deepfake GIF](https://wired.me/wp-content/uploads/2023/05/Lead_deepfake.gif)
 
-## 📸 Screenshots
+## 📸 Step by Step
 🔹 Upload Video Page  
 🔹 Prediction Results  
 🔹 Heatmap Analysis  
